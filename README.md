@@ -1,4 +1,6 @@
-## Hi there 👋
+### <p>Hey there <img src="https://github.com/betweenlife/betweenlife/blob/main/wave.gif" width="20px" height="20px"/> I am Francesco Vita</p> 
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=15&duration=5500&pause=1000&width=435&lines=Industrial+Engineer%3B+Full+Stack+Dev+and+IT+Advisor%3B+New+Tech+Enthusiast%3B+Based+in+Italy%3B+...and+some+other+things%2C+follow+my+socials%21)](https://git.io/typing-svg)
 
 <!--
 **betweenlife/betweenlife** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
